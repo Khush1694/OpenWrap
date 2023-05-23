@@ -460,5 +460,5 @@ To change the configuration and check bid responses use following JSFiddles :
 
 ## Safe Frame
 Expandable creative will not work correctly after rendering inside safe frame on Safari, IE11/Edge
-
+Scan
 </a>
